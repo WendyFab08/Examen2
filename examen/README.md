@@ -1,0 +1,1 @@
+Mi programa realiza todas las conversiones, solo me faltó la segunda ventana del CheckBox, lo estuve intentando pero al último no me salió, por eso cada que se corre el programa el usuario puede elegir la  moneda inicial y se le mostraran las conversiones en las menedas restantes.
